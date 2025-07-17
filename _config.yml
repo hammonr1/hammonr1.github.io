@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ruth Hammond"
   avatar : "/assets/images/Headshot.png"
-  bio    : "Hi, I'm Ruth. A Ph.D. student specializing in building solutions while they're in motion, tackling complex challenges that can't wait for perfect conditions. Using AI, high-performance computing, and cross-disciplinary research expertise, I develop innovative approaches to some of the world's most demanding problems."
+  bio    : "Hi, I'm Ruth."
   links:
     # - label: "Website"
    #   icon: "fas fa-fw fa-link"
