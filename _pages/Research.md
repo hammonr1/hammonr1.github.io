@@ -6,6 +6,7 @@ author_profile: true
 ---
 ###### **Portfolio**
 **AI/ML**
+
 [Agentic AI for Nuclear Physics]()
 * Developing natural language interfaces for multi-agent systems that automatically configure and execute complex stockpile design simulations on HPC clusters.
 
