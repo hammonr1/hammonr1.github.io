@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ruth Hammond"
-  avatar : "/assets/images/Headshot.png"
+  #avatar : "/assets/images/"
   bio    : "Hi, I'm Ruth."
   links:
     # - label: "Website"
