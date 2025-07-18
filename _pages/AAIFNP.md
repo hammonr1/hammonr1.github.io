@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Agentic AI for Nuclear Physics
  
 At Lawrence Livermore National Laboratory, I em enhancing the Job-Management Agent within the MADA framework, a groundbreaking multi-agent system that automates complex stockpile design simulations. My work focuses on building natural language interfaces powered by LLMs that translate high-level user goals into standardized HPC workflow templates. By automating workflow setup and implementing privacy-preserving training protocols, this system dramatically reduces manual overhead in NNSA programs while accelerating critical shockwave assembly simulations across the national laboratory complex.
 
