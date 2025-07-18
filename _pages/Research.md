@@ -4,7 +4,7 @@ permalink: /Research/
 layout: single
 author_profile: true
 ---
-###### **Portfolio**
+### **Portfolio**
 **AI/ML**
 
 [Agentic AI for Nuclear Physics]()
