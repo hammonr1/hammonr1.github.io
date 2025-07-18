@@ -3,4 +3,4 @@ permalink: /CV/
 title: "CV"
 ---
 
-[CV](CV.pdf)
+[My academic CV!](https://ruth-hammond-cv.tiiny.site/)
