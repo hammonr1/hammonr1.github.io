@@ -1,6 +1,6 @@
 ---
 title: "Disseminations"
-layout: simple
+layout: single
 permalink: /Publications/
 author_profile: true
 ---
