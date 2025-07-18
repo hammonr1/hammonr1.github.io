@@ -7,3 +7,13 @@ main:
     url: /Publications/
   - title: "CV"
     url: /CV/
+  -title: "Agentic AI for Nuclear Physics"
+    url: /AAIFNP/
+  -title: "Privacy-Savvy EV Charging Optimization"
+    url: /PSEVCO/
+  -title: "Quantum-Safe Federated Learning"
+    url: /QSFL/
+  -title: "Intelligence Analytics for Piracy Detection"
+    url: /IAFPD/
+  -title: "AI-Powered Materials Discovery"
+    url: /AIPMD/
